@@ -116,7 +116,7 @@ li {
 .section__title::before {
   content: "";
   position: absolute;
-  background: url(/img/brush@2x.png);
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/brush@2x.png?raw=true);
   top: -13px;
   left: -27px;
   width: 195px;
@@ -139,7 +139,7 @@ li {
 .section__title.white::before {
   content: "";
   position: absolute;
-  background: url(/img/brush-white@2x.png);
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/brush-white@2x.png?raw=true);
   top: -13px;
   left: -27px;
   width: 195px;
@@ -245,7 +245,7 @@ li {
 }
 
 .hero {
-  background: url(/img/blonde-sunset@2x.png) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/blonde-sunset@2x.png?raw=true) no-repeat center center/cover;
   width: 100%;
   position: relative;
   height: 700px;
@@ -301,7 +301,7 @@ li {
 }
 
 .hero.hero-menu {
-  background: url(/img/brunette@2x.jpg) no-repeat center center/cover;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/brunette@2x.jpg?raw=true) no-repeat center center/cover;
 }
 
 .section__title.green {
@@ -320,7 +320,7 @@ li {
 .concept::before {
   position: absolute;
   content: "";
-  background: url(/img/Image10@2x.png) no-repeat right bottom/cover;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/Image10@2x.png?raw=true) no-repeat right bottom/cover;
   width: 466px;
   height: 371px;
   bottom: 0;
@@ -499,7 +499,7 @@ li {
 .banner__img::before {
   position: absolute;
   content: "";
-  background: url(/img/pc-leftbottom@2x.png);
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/pc-leftbottom@2x.png?raw=true);
   width: 242px;
   height: 270px;
   top: -28px;
@@ -529,7 +529,7 @@ li {
 .banner__body::after {
   position: absolute;
   content: "";
-  background: url(/img/pc-righttop@2x.png);
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/pc-righttop@2x.png?raw=true);
   width: 242px;
   height: 222px;
   top: -28px;
@@ -633,7 +633,7 @@ li {
 .banner--sp .banner__wrapper-sp .banner__img-sp::before {
   position: absolute;
   content: "";
-  background: url(/img/sp-righttop@2x.png) no-repeat;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/sp-righttop@2x.png?raw=true) no-repeat;
   width: 200px;
   height: 200px;
   top: -40px;
@@ -641,7 +641,7 @@ li {
   z-index: 2;
 }
 .banner--sp .banner__wrapper-sp .banner__body-sp {
-  background: url(/img/bg.jpg);
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/bg.jpg?raw=true);
   background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: lighten;
   position: relative;
@@ -650,7 +650,7 @@ li {
 .banner--sp .banner__wrapper-sp .banner__body-sp::before {
   position: absolute;
   content: "";
-  background: url(/img/sp-leftbottom@2x.png) no-repeat;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/sp-leftbottom@2x.png?raw=true) no-repeat;
   width: 200px;
   height: 235px;
   bottom: -40px;
@@ -709,7 +709,7 @@ li {
     position: absolute;
     content: "";
     display: block;
-    background: url(/img/Image10@2x.png) no-repeat center center/contain;
+    background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/Image10@2x.png?raw=true) no-repeat center center/contain;
     width: 250px;
     height: 250px;
     bottom: -100px;
@@ -816,7 +816,7 @@ li {
 .instagram::before {
   position: absolute;
   content: "";
-  background: url(/img/Image10@2x.png) no-repeat center center/contain;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/Image10@2x.png?raw=true) no-repeat center center/contain;
   width: 450px;
   height: 300px;
   bottom: -165px;
@@ -953,7 +953,7 @@ li {
   position: absolute;
   content: "";
   display: block;
-  background: url(/img/Image10@2x.png) no-repeat center center/contain;
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/Image10@2x.png?raw=true) no-repeat center center/contain;
   width: 300px;
   height: 300px;
   bottom: -50px;
