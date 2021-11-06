@@ -479,7 +479,7 @@ li {
 .banner__wrapper::after {
   content: "";
   position: absolute;
-  width: 650px;
+  width: calc(100% - 40px);
   height: 163px;
   border: 1px solid #fff;
   top: 50%;
@@ -515,7 +515,7 @@ li {
   width: 50%;
   height: 195px;
   padding: 45px 0 32px 60px;
-  background: url(/img/bg.jpg);
+  background: url(https://github.com/autodrop-lekker/saloon/blob/main/img/bg.jpg?raw=true);
   background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: lighten;
   position: relative;
