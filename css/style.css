@@ -856,6 +856,7 @@ li {
 @media (max-width: 767px) {
   .instagram__card {
     width: 150px;
+    height: 150px;
   }
 }
 @media (min-width: 768px) and (max-width: 1199px) {
@@ -901,6 +902,9 @@ li {
   .instagram__btn a {
     padding: 12px 50px 10px;
   }
+}
+@media (max-width: 767px) {
+  
 }
 .instagram__btn a::before {
   position: absolute;
